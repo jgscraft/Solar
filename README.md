@@ -24,4 +24,4 @@ There are three files:
 
 The code is heavily commented so check there for details.
 
-This project has a associated [Instructables](https//www.instructables.com/member/jgschmidt/instructables/).
+This project has associated Instructables here: `https//www.instructables.com/member/jgschmidt/instructables/`).
